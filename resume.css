@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Roboto+Mono:wght@100&display=swap');
+body{
+    margin: 20px;
+}
+header{
+    
+    height:132px;
+    width: 100%;
+    background-color: rgb(9, 9, 37);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.profile{
+    height: 110px;
+    width: 125px;
+    position:absolute;
+    margin-left:75%;
+    margin-top:-75px;
+    border:rgb(15, 82, 109);
+    
+}
+h1{
+     font-family: 'Roboto Mono', monospace;
+}
+h6{
+    padding-left: 78px;
+    font-family:'Barlow', sans-serif;
+    color:rgb(241, 150, 31);}
+main{
+    border:solid 3px black;
+    font-family: 'Barlow', sans-serif;
+}
+h3{
+    color: rgb(241, 150, 31);
+    font-family: 'Roboto Mono', monospace;
+}
+.side{
+    background-color:rgb(9, 9, 37);
+    height: 1005px;
+    margin-left: 12px;
+    color: white;
+   
+
+}
+.end{
+    background-color:rgb(9, 9, 37);
+    height: 1005px;
+    margin-left: 395px;
+    width: 728px;
+color: white;
+position: absolute;
+
+   
+}
+.text{
+    font-family: 'Barlow', sans-serif;
+}
+
